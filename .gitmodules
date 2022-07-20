@@ -1,0 +1,3 @@
+[submodule "modules/CMakeMaya"]
+	path = modules/CMakeMaya
+	url = git@github.com:FXTD-ODYSSEY/CMakeMaya.git
